@@ -1,15 +1,5 @@
 # Mini Game
 
-**Original Author:** Zhijun Chen  
-**Copyright:** © 2026 Zhijun Chen  
-**License:** Apache License 2.0
-
-This project was originally developed by Zhijun Chen.
-
-The source code is licensed under the Apache License 2.0.
-Please retain the applicable copyright, license, and attribution notices
-when redistributing the project.
-
 
 
 
