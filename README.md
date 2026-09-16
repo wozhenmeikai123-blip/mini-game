@@ -110,7 +110,7 @@ npm start
 
 ## 作者与许可证
 
-- 作者：Zhijun Chen
+- 原始作者：Zhijun Chen
 - 原始仓库：[wozhenmeikai123-blip/mini-game](https://github.com/wozhenmeikai123-blip/mini-game)
 - 版权：Copyright © 2026 Zhijun Chen.
 - 许可证：Apache License 2.0
