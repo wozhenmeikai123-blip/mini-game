@@ -1,5 +1,18 @@
 # Mini Game
 
+**Original Author:** Zhijun Chen  
+**Copyright:** © 2026 Zhijun Chen  
+**License:** Apache License 2.0
+
+This project was originally developed by Zhijun Chen.
+
+The source code is licensed under the Apache License 2.0.
+Please retain the applicable copyright, license, and attribution notices
+when redistributing the project.
+
+
+
+
 一个基于浏览器的小游戏合集，包含井字棋、黑白棋和数字华容道。项目使用原生 HTML、CSS、JavaScript 构建页面，由 Node.js 提供接口和静态文件服务，并通过 Socket.IO 支持实时对战。
 
 ## 功能
