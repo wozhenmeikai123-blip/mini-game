@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>Digital Klotski</title>
+    <link rel="stylesheet" href="klotski.css" />
+</head>
+<body>
+    <a href="../home/index.html" class="back-btn btn-common">Back</a>
+    <h1>Digital Klotski</h1>
+    <p>Tip: Click a tile to move it</p>
+    <div id="boardContainer">
+        <div id="Counter">Steps: 0</div>
+        <div id="board">
+             <div id="loading">Loading...</div>
+        </div>
+        <button id="restartBtn1" class="btn-common">Restart</button>
+        <button id="saveBtn">Save</button>
+        <button id="leaderboardBtn" class="btn-common">Leaderboard</button>
+    </div>
+    <div id="winPopup" class="popup">
+    🎉 Congratulations! You solved the puzzle in <span id="winSteps"></span> steps!
+        <br><br>
+        <button id="restartBtn2" class="btn-common">Restart</button>
+    </div>
+    <script src="klotski.js"></script>
+</body>
+</html>
